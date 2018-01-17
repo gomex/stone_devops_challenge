@@ -23,8 +23,8 @@ Here is a list of what you will need to complete the challenge:
 
 Okay, to the challenge now...
 
-	Pretend that you are a DevOps Engineer at Stone Co. and your manager has designated you to help a new development team that will work in a revolutionary product for the company.
-	After a few meetings with your new team, you have decided to use Jenkins as your CI/CD tool, your team chose to use Node.js  with React as the official stack.
+    Pretend that you are a DevOps Engineer at Stone Co. and your manager has designated you to help a new development team that will work in a revolutionary product for the company.
+    After a few meetings with your new team, you have decided to use Jenkins as your CI/CD tool, your team chose to use Node.js  with React as the official stack.
 	You are not sure on which cloud service you will use yet(that's why you need a free account of Azure or AWS, it's time to choose!)
 	Your team needs a lab ready to test their first features.
 
@@ -48,7 +48,7 @@ Here are some of the checkpoints to guide you through this quest:
 - You must create a Jenkins job that will deploy your app.
 - You might want to use Docker to run your application, if you choose this way it will be a plus, we like containers ;)
 
-Once you finish, you must email us to challenge@stone.com.br with the following information:
+Once you have finished, you must send an email to challenge@stone.com.br with the following information:
 - Jenkins URL with user and password (we might want to take a look in your job).
 - Published app URL.
 
