@@ -19,12 +19,12 @@ to check that we have prepared a little challenge with some checkpoints that you
 
 Here is a list of what you will need to complete the challenge:
 -   A computer with internet (hehe obvious isn't it ?)
--   Free account for <a href="https://goo.gl/1gzFRE" target="_blank">Microsoft Azure</a> or <a href="https://goo.gl/GQRLct" target="_blank">AWS (Amazon Web Services)</a>
+-   Free account for <a href="https://goo.gl/1gzFRE" target="_blank">Microsoft Azure</a>, <a href="https://goo.gl/GQRLct" target="_blank">AWS (Amazon Web Services)</a>, or <a href="https://cloud.google.com" target="_blank">Google Cloud</a>
 
 Okay, to the challenge now...
 
     Pretend that you are a DevOps Engineer at Stone Co. and your manager has designated you to help a new development team that will work in a revolutionary product for the company.
-    After a few meetings with your new team, you have decided to use Jenkins as your CI/CD tool, your team chose to use Node.js  with React as the official stack.
+    After a few meetings with your new team, you have decided to use Jenkins as your CI/CD tool, your team chose to use Node.js  with React as the official tech stack.
 	You are not sure on which cloud service you will use yet(that's why you need a free account of Azure or AWS, it's time to choose!)
 	Your team needs a lab ready to test their first features.
 
@@ -43,7 +43,7 @@ Here are some of the checkpoints to guide you through this quest:
 - You must rise a Jenkins application on any cloud service you chose.
 - Your Jenkins server must be public so we can access with a user that you will provide (with administrator privilege please!).
 - You must use slaves to run your builds on Jenkins.
-- Your job must use continuous integration.
+- Your job must use continuous integration approach.
 - Continuous deployment will be a plus.
 - You must create a Jenkins job that will deploy your app.
 - You might want to use Docker to run your application, if you choose this way it will be a plus, we like containers ;)
